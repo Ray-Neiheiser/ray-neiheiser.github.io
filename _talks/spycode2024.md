@@ -4,6 +4,6 @@ collection: talks
 type: "Talk"
 permalink: /talks/3
 venue: "SPyCoDe 2024"
-date: "2024"
+date: 2024-09-09
 location: "Vienna"
 ---
