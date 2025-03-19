@@ -11,35 +11,70 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Automation Engineering and Systems, 2022
+  * University of Santa Catarina, Florianópolis, Brazil
+  * Advisory: Joni Fraga, Carlos Montez, Luciana Rech
+  * Kauri: Scaling Byzantine Fault Tolerant Consensus 
+  * Completed with Distinction
+
+
+* Ph.D. in Information Systems and Computer Engineering, 2022
+  * University of Lisbon, Lisbon, Portugal
+  * Advisory: Luis Rodrigues, Miguel Matos
+  * Kauri: Scaling Byzantine Fault Tolerant Consensus
+  * Completed with Distinction
+
+* Master in Computer Science, 2017
+  * University of Santa Catarina, Florianópolis, Brazil
+  * Advisory: Lau Cheuk Lung, Luciana Rech
+  * Byzantine Fault Tolerant Architecture for Geo-Distributed Graph Databases
+
+* Bachelor in Computer Science and Media, 2015
+  * Hochschule der Medien, Stuttgart, Germany
+  * Advisory: Roland Schmitz, Lau Cheuk Lung
+  * Fault-Tolerant Deferred Update Replication in Distributed Graph Databases
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Postdoctoral Researcher
+  * Institute for Science and Technology (ISTA), Austria
+  * Advisory: Krzysztof Pietrzak
+    * Game Theoretic Consensus
+    * Cryptography & Tree Communication
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Postdoctoral Researcher
+  * Institute for Science and Technology (ISTA), Austria
+  * Advisory: Lefteris Kokoris-Kogias
+    * Parallel Execution Engines for Smart Contracts 
+    * Game Theoretic Consensus
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * German (Native)
+  * English (Fluent)
+  * Portuguese (Fluent)
+* Programming Languages
+  * Java
+  * Rust
+  * C++
+  * Javascript
+  * Python
+  * Bash
+* Tools and Frameworks
+  * Docker
+  * Linux
+  * Git
+  * Github
+* Core Competences
+  * Public Speaking and Presentation
+  * Scientific & Grant Writing
+* Soft Skills
+  * Mentorship
+  * Project Management
+  * Leadership
+  * Community Management
 
 Publications
 ======
@@ -61,4 +96,8 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Worked 9 Months at the Red Cross
+* Part of the ISTA Food Parliament
+* Arctic Code Vault Contributor
+* Free Martial Arts Classes for University Community
+* Open Source Maintainer
