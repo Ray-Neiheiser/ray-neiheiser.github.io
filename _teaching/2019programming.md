@@ -1,5 +1,5 @@
 ---
-title: "Teaching Internship"
+title: "Teaching Internship - Programming I"
 collection: teaching
 type: "Bachelor course"
 permalink: /teaching/2

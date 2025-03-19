@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant - Cryptocurrencies"
 collection: teaching
 type: "Masters course"
 permalink: /teaching/1
