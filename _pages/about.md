@@ -17,7 +17,8 @@ My current main research interests are:
 - Blockchain Scaling Solutions
 - Humancentric Blockchain Design
 
-I am also an avid supporter and contributor to open-source software. I am a maintainer and co-founder of [Ldtteam](https://github.com/ldtteam) and contributed to numerous open-source projects such as the Chia BLS library.
+I am also an avid supporter and contributor to open-source software.
+I am a maintainer and co-founder of [Ldtteam](https://github.com/ldtteam) and contributed to numerous open-source projects with combined over 300 million downloads such as the Chia BLS library.
 
 News
 ======
