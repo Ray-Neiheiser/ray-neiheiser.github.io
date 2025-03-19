@@ -9,6 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+Work experience
+======
+* Postdoctoral Researcher
+  * Institute for Science and Technology (ISTA), Austria
+  * Advisory: Krzysztof Pietrzak
+    * Game Theoretic Consensus
+    * Cryptography & Tree Communication
+
+
+* Postdoctoral Researcher
+  * Institute for Science and Technology (ISTA), Austria
+  * Advisory: Lefteris Kokoris-Kogias
+    * Parallel Execution Engines for Smart Contracts
+    * Game Theoretic Consensus
+
 Education
 ======
 * Ph.D. in Automation Engineering and Systems, 2022
@@ -34,21 +49,6 @@ Education
   * Advisory: Roland Schmitz, Lau Cheuk Lung
   * Fault-Tolerant Deferred Update Replication in Distributed Graph Databases
 
-Work experience
-======
-* Postdoctoral Researcher
-  * Institute for Science and Technology (ISTA), Austria
-  * Advisory: Krzysztof Pietrzak
-    * Game Theoretic Consensus
-    * Cryptography & Tree Communication
-
-
-* Postdoctoral Researcher
-  * Institute for Science and Technology (ISTA), Austria
-  * Advisory: Lefteris Kokoris-Kogias
-    * Parallel Execution Engines for Smart Contracts 
-    * Game Theoretic Consensus
-  
 Skills
 ======
 * Languages
