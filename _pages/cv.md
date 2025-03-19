@@ -67,7 +67,7 @@ Skills
   * Linux
   * Git
   * Github
-* Core Competences
+* Core Competencies
   * Public Speaking and Presentation
   * Scientific & Grant Writing
 * Soft Skills
