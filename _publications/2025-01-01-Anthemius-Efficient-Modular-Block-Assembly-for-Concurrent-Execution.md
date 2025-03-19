@@ -6,4 +6,3 @@ date: 2025-01-01
 venue: 'arXiv preprint arXiv:2502.10074'
 citation: ' Ray Neiheiser,  Eleftherios Kokoris-Kogias, &quot;Anthemius: Efficient &amp;amp; Modular Block Assembly for Concurrent Execution.&quot; arXiv preprint arXiv:2502.10074, 2025.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Anthemius:+Efficient+&amp;+Modular+Block+Assembly+for+Concurrent+Execution){:target="_blank"} for full citation
