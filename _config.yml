@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.jpeg"
   name             : "Ray Neiheiser"
-  pronouns         :  example: "he/him"  
+  pronouns         :  "he/him"  
   bio              : "Distributed Systems & Blockchain Researcher"
   location         : "Austria"
   employer         : "IST Austria"
