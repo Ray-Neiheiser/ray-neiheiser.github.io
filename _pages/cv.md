@@ -94,9 +94,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
-* Worked 9 Months at the Red Cross
+* Worked 9 Months at the Red Cross with children with disabilities
 * Part of the ISTA Food Parliament
 * Arctic Code Vault Contributor
 * Free Martial Arts Classes for University Community
