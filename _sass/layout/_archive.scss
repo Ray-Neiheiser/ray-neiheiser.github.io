@@ -122,6 +122,12 @@
   .archive__item-title {
 
     font-size: $type-size-5;
+
+    display: block;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
   }
 
   .archive__item-excerpt {
