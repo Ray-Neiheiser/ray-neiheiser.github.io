@@ -40,7 +40,7 @@
 }
 
 .archive__item-title {
-
+  font-weight: bold;
   font-family: $sans-serif-narrow;
 
   a + a {
@@ -52,7 +52,7 @@
 .page__content {
 
   .archive__item-title {
-
+    font-weight: bold;
     border-bottom: none;
   }
 }
@@ -80,7 +80,7 @@
   }
 
   .archive__item-title {
-
+    font-weight: bold;
   }
 }
 
