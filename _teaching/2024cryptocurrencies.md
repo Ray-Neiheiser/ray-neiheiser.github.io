@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant - Cryptocurrencies"
+title: "2024 Teaching Assistant - Cryptocurrencies"
 collection: teaching
 type: "Masters course"
 permalink: /teaching/1
