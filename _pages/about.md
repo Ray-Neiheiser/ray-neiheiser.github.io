@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher at the Institute of Science and Technology Austria (ISTA) and part of the [Pietrzak Group
-](https://ist.ac.at/de/forschung/pietrzak-gruppe/).
+I am a Postdoctoral Researcher at the Institute of Science and Technology Austria (ISTA) and part of the [Pietrzak Group](https://ist.ac.at/de/forschung/pietrzak-gruppe/).
 
 My current main research interests are:
 - Scalable Byzantine Fault Tolerant Consensus
@@ -23,9 +22,11 @@ I am a maintainer and co-founder of [Ldtteam](https://github.com/ldtteam) and co
 News
 ======
 February 2025 Our Paper "Anthemius: Efficient & Modular Block Assembly for Concurrent Execution" was accepted at [FC 25](https://fc25.ifca.ai/).
+September 2025 Our Paper "Kauri: BFT Consensus with Pipelined Tree-Based Dissemination and Aggregation" was accepted at [ACM TOCS](https://dl.acm.org/journal/tocs)
 
 Recent Select Publications
 ======
+- 2025: Kauri: BFT Consensus with Pipelined Tree-Based Dissemination and Aggregation
 - 2025: Anthemius: Efficient & Modular Block Assembly for Concurrent Execution.
 - 2023: Practical Limitations of Ethereum’s Layer-2
 - 2021: Kauri: Scalable BFT Consensus with Pipelined Tree-Based Dissemination and Aggregation
@@ -38,6 +39,7 @@ Ongoing Projects
 
 - Wonderboom: Efficient and Scalable Aggregation Trees
 - CoBRA: A Universal Strategyproof Confirmation Protocol for Quorum-based Proof-of-Stake Blockchains
-- Kauri: BFT Consensus with Pipelined Tree-Based Dissemination and Aggregation
-
+- Performance Attacks on Decoupled Execution
+- Practical Ethereum Lightclients with Lazy Quorums
+- Anthemius for Leaderless Blockchains
 
