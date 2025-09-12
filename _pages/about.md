@@ -21,8 +21,8 @@ I am a maintainer and co-founder of [Ldtteam](https://github.com/ldtteam) and co
 
 News
 ======
-February 2025 Our Paper "Anthemius: Efficient & Modular Block Assembly for Concurrent Execution" was accepted at [FC 25](https://fc25.ifca.ai/).
-September 2025 Our Paper "Kauri: BFT Consensus with Pipelined Tree-Based Dissemination and Aggregation" was accepted at [ACM TOCS](https://dl.acm.org/journal/tocs)
+- February 2025 Our Paper "Anthemius: Efficient & Modular Block Assembly for Concurrent Execution" was accepted at [FC 25](https://fc25.ifca.ai/).
+- September 2025 Our Paper "Kauri: BFT Consensus with Pipelined Tree-Based Dissemination and Aggregation" was accepted at [ACM TOCS](https://dl.acm.org/journal/tocs)
 
 Recent Select Publications
 ======
