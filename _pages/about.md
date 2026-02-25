@@ -23,7 +23,7 @@ News
 ======
 - February 2025 Our Paper "Anthemius: Efficient & Modular Block Assembly for Concurrent Execution" was accepted at [FC 25](https://fc25.ifca.ai/).
 - September 2025 Our Paper "Kauri: BFT Consensus with Pipelined Tree-Based Dissemination and Aggregation" was accepted at [ACM TOCS](https://dl.acm.org/journal/tocs)
-- January 2026 Our Paper "Wonderboom-Efficient, and Censorship-Resilient Signature Aggregation for Million Scale Consensus" is now available on [Arxiv](https://arxiv.org/abs/2602.06655)
+- February 2026 Our Paper "Wonderboom-Efficient, and Censorship-Resilient Signature Aggregation for Million Scale Consensus" is now available on [Arxiv](https://arxiv.org/abs/2602.06655)
 - February 2026 Our Paper "The Tragedy of Chain Commons" is now available on [Arxiv](https://arxiv.org/abs/2602.20341)
 
 Recent Select Publications
